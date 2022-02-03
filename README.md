@@ -3,7 +3,7 @@
 
 #### Information :
 * 19 years
-* Gaming, Programming
+* Gaming, Programming, Game Design
 
 #### Project :
 * 3D Games in Unity 
