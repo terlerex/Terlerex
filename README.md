@@ -6,8 +6,11 @@
 * Gaming, Programming
 
 #### Project :
-* 3D Games in Unity
-* Runner made with Unity
+* 3D Games in Unity 
+* Runner made with Unity 🦊
+* Puzzle Games 3D Prototype 🧩
+* Basics Snake 🐍
+* Shoot'em Up 3D 🔫
 
 #### Language | Software | Idle 
 
