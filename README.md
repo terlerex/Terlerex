@@ -12,6 +12,8 @@
 * Basics Snake 🐍
 * Shoot'em Up 3D 🔫
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terlerex)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Language | Software | Idle 
 
 <a href="url"><img src="https://wakeupandcode.com/wp-content/uploads/2019/03/C.NET_-1024x384-1.png" align="left" height="60" width="150" ></a>
